@@ -1,2 +1,2 @@
 # DesuWa
-A repo where i put code to print "desu wa" in each langage in know
+A repo where i put code to print "Desu wa!" in each langage in know
