@@ -1,8 +1,5 @@
-#include <iostream>
-using namespace std;
-
+#include <cstdio>
 int main()
 {
-   cout << "Desu wa!" << endl;
-   return 0;
+   printf("%s\n", "Desu wa!");
 }
